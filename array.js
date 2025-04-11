@@ -21,5 +21,5 @@ function reverseArray(array){
     console.log(reversedArray);
 }
 
-reverseString(string)
-reverseArray(array)
+reverseString(string);
+reverseArray(array);
