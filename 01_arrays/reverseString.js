@@ -41,8 +41,8 @@ function reverseString3(str){
 const reverseString4 = str => str.split('').reverse().join('');
 
 
-//console.log(reverseArray(array));
+console.log(reverseArray(array));
 console.log(reverseString(string));
-//console.log(reverseString2(string));
-//console.log(reverseString3(string));
+console.log(reverseString2(string));
+console.log(reverseString3(string));
 console.log(reverseString4(string));
